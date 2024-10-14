@@ -32,4 +32,5 @@ Neural Network Regressor
 Results
 Model performance was measured using the R-squared score on training and testing datasets. Cross-validation was also conducted to ensure model generalization. The highest accuracy on testing data was achieved using Gradient Boosting and XGBoost with hyperparameter tuning.
 
+![Result](https://github.com/user-attachments/assets/07b9c585-92a4-41de-8a75-cd0483129710)
 
